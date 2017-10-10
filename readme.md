@@ -1,6 +1,8 @@
 
 # Callistory
 
+[![Join the chat at https://gitter.im/tonyfast/callistory](https://badges.gitter.im/tonyfast/callistory.svg)](https://gitter.im/tonyfast/callistory?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 `callistory` is a reusable project to assist creating DIY technology events.  This project will prototype the first Callisto Morn event in Atlanta, Georgia on November 11.
 
 # Build
